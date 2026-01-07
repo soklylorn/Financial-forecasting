@@ -98,6 +98,6 @@ The LSTM did not outperform simpler models, highlighting the importance of stron
 
 ## How to Run
 ```bash
-git clone https://github.com/yourusername/financial-forecasting.git
+git clone https://github.com/sokly-lorn/Stock-Prediction.git
 cd financial-forecasting
 jupyter notebook notebooks/stock_prediction.ipynb
